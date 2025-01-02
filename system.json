@@ -10,7 +10,7 @@
   "background": "systems/blades-in-the-dark/images/BITD_title.webp",
   "url": "https://github.com/PyraMyst/runners_in_the_shadows/",
   "manifest": "https://raw.githubusercontent.com/PyraMyst/runners_in_the_shadows/master/system.json",
-  "download": "",
+  "download": "https://raw.githubusercontent.com/PyraMyst/runners_in_the_shadows/master/system.zip",
   "authors": [
     { "name": "megastruktur" },
     { "name": "drewg13" },
