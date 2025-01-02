@@ -1,3 +1,5 @@
+v0.2
+- changed stress to edge
 
 v0.1
 - clone of Dez384/foundryvtt-blades-in-the-dark
