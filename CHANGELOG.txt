@@ -1,6 +1,7 @@
 
 v0.1
 - clone of Dez384/foundryvtt-blades-in-the-dark
+- localisation file change to get the skill names correct
 
 TODOs:
 - everything
