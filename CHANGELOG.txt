@@ -1,3 +1,6 @@
+v0.3.2
+- more bug fixes
+
 v0.3.1
 - bug fixes
 
