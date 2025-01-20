@@ -11,7 +11,7 @@ export class BladesCrewSheet extends BladesSheet {
 	static get defaultOptions() {
 	  return foundry.utils.mergeObject(super.defaultOptions, {
   	  classes: ["blades-in-the-dark", "sheet", "actor", "crew"],
-  	  template: "systems/runners_in_the_shadows/templates/crew-sheet.html",
+  	  template: "systems/runnersintheshadows/templates/crew-sheet.html",
       width: 940,
       height: 940,
       tabs: [{navSelector: ".tabs", contentSelector: ".tab-content", initial: "turfs"}]

@@ -81,7 +81,7 @@ export class BladesItem extends Item {
     if (itemData.img.includes("/mystery-man")) {
       itemData.img = null;
     }
-    const html = await renderTemplate("systems/runners_in_the_shadows/templates/chat/chat-item.html", itemData);
+    const html = await renderTemplate("systems/runnersintheshadows/templates/chat/chat-item.html", itemData);
     const chatData = {
       user: game.userId,
       content: html,

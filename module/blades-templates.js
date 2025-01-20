@@ -9,12 +9,12 @@ export const preloadHandlebarsTemplates = async function() {
   const templatePaths = [
 
     // Actor Sheet Partials
-    "systems/runners_in_the_shadows/templates/parts/coins.html",
-    "systems/runners_in_the_shadows/templates/parts/attributes.html",
-    "systems/runners_in_the_shadows/templates/parts/turf-list.html",
-    "systems/runners_in_the_shadows/templates/parts/cohort-block.html",
-    "systems/runners_in_the_shadows/templates/parts/factions.html",
-    "systems/runners_in_the_shadows/templates/parts/active-effects.html",
+    "systems/runnersintheshadows/templates/parts/coins.html",
+    "systems/runnersintheshadows/templates/parts/attributes.html",
+    "systems/runnersintheshadows/templates/parts/turf-list.html",
+    "systems/runnersintheshadows/templates/parts/cohort-block.html",
+    "systems/runnersintheshadows/templates/parts/factions.html",
+    "systems/runnersintheshadows/templates/parts/active-effects.html",
   ];
 
   // Load the template parts
