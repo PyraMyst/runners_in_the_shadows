@@ -2,7 +2,7 @@
   "id": "runnersintheshadows",
   "title": "Runners in the Shadows",
   "description": "Runners in the Shadows game system.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "compatibility": {
     "minimum": 11,
     "verified": "12.331"
@@ -10,7 +10,7 @@
   "background": "systems/runnersintheshadows/images/BITD_title.webp",
   "url": "https://github.com/PyraMyst/runners_in_the_shadows/",
   "manifest": "https://raw.githubusercontent.com/PyraMyst/runners_in_the_shadows/master/system.json",
-  "download": "https://github.com/PyraMyst/runners_in_the_shadows/archive/refs/tags/v0.3.2.zip",
+  "download": "https://github.com/PyraMyst/runners_in_the_shadows/archive/refs/tags/v0.3.3.zip",
   "authors": [
     { "name": "megastruktur" },
     { "name": "drewg13" },
