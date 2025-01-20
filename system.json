@@ -8,9 +8,9 @@
     "verified": "12.331"
   },
   "background": "systems/runnersintheshadows/images/BITD_title.webp",
-  "url": "https://github.com/PyraMyst/runnersintheshadows/",
-  "manifest": "https://raw.githubusercontent.com/PyraMyst/runnersintheshadows/master/system.json",
-  "download": "https://github.com/PyraMyst/runnersintheshadows/archive/refs/tags/v0.3.1.zip",
+  "url": "https://github.com/PyraMyst/runners_in_the_shadows/",
+  "manifest": "https://raw.githubusercontent.com/PyraMyst/runners_in_the_shadows/master/system.json",
+  "download": "https://github.com/PyraMyst/runners_in_the_shadows/archive/refs/tags/v0.3.1.zip",
   "authors": [
     { "name": "megastruktur" },
     { "name": "drewg13" },
