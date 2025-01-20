@@ -1,3 +1,6 @@
+v0.3
+- added abilities, classes, items and NPC compendiums
+
 v0.2
 - changed stress to edge
 
