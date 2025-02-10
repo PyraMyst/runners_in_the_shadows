@@ -1,3 +1,7 @@
+v0.3.8
+- Hunting ground changed to meeting ground
+- Corrected spelling mistake in item compendium
+
 v0.3.7
 - more bugs fixed
 
